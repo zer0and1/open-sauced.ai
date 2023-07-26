@@ -17,8 +17,6 @@
   </a>
 </p>
 
-![pr description demo](https://opensauced.ai/pr-description.gif)
-
 Leverage AI to generate pull request descriptions based on the diff & commit messages. It works! [Install the Chrome Extension](https://bit.ly/opensaucedai) to get started.
 
 ## Documentation
@@ -72,8 +70,8 @@ You should now have the extension installed and running.
   <a href="https://github.com/diivi">
     <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/41837037&h=60&w=60&fit=cover&mask=circle" alt="Divyansh Singh">
   </a>
-  <a href="https://github.com/Anush008">
-    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/46051506&h=60&w=60&fit=cover&mask=circle" alt="Anush Shetty">
+  <a href="https://github.com/zer0and1">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/4669290&h=60&w=60&fit=cover&mask=circle" alt="Zero and One">
   </a>
 </p>
 
